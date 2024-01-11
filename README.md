@@ -1,6 +1,5 @@
 - 👋 Hi, I’m sharc
 - 👀 I’m interested in being an all rounder
-- 🌱 I’m currently learning data science using python
 - 💞️ I’m looking to collaborate on various research works
 - 📫 How to reach me --> sharc9694@gmail.com
 
